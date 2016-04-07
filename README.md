@@ -5,6 +5,8 @@ As a student of Computer Science, I gathered lots of great material (blogs, arti
 
 I hope you find what you are searching for or, at least, other interesting material.
 
+[Go to the project wiki] (https://github.com/marcosdg/computer-science-resources/wiki)
+
 #### Disclaimer
 
 I DO NOT OWN ANY OF THE MATERIAL PROVIDED.
